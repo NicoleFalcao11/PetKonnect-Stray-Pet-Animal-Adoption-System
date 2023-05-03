@@ -97,6 +97,8 @@
 	    if(status == "success"){
 		swal("Congrats","Account Created Successfully","success")//.then(function(){
 			//window.location="login1.jsp";
+			
+			//swal is a JavaScript library for creating beautiful and customizable modal windows and pop-up dialogs. 
 		}
 	}
 	</script>
