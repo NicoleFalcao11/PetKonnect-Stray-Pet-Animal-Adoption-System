@@ -1,0 +1,1 @@
+The Website is responsible for  connecting potential adopters with stray animals in need of loving homes. It's built using Java Servlet API and JSP and MySQL Database, allowing for a dynamic and user-friendly experience.
